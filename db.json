@@ -5,280 +5,320 @@
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.241Z"
+      "created_at": "2018-07-27T18:53:16.241Z",
+      "eaten": false
     },
     {
       "id": 2,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.244Z"
+      "created_at": "2018-07-27T18:53:16.244Z",
+      "eaten": false
     },
     {
       "id": 3,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.248Z"
+      "created_at": "2018-07-27T18:53:16.248Z",
+      "eaten": false
     },
     {
       "id": 4,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.251Z"
+      "created_at": "2018-07-27T18:53:16.251Z",
+      "eaten": false
     },
     {
       "id": 5,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.255Z"
+      "created_at": "2018-07-27T18:53:16.255Z",
+      "eaten": false
     },
     {
       "id": 6,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.258Z"
+      "created_at": "2018-07-27T18:53:16.258Z",
+      "eaten": false
     },
     {
       "id": 7,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.260Z"
+      "created_at": "2018-07-27T18:53:16.260Z",
+      "eaten": false
     },
     {
       "id": 8,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.264Z"
+      "created_at": "2018-07-27T18:53:16.264Z",
+      "eaten": false
     },
     {
       "id": 9,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.275Z"
+      "created_at": "2018-07-27T18:53:16.275Z",
+      "eaten": false
     },
     {
       "id": 10,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.279Z"
+      "created_at": "2018-07-27T18:53:16.279Z",
+      "eaten": false
     },
     {
       "id": 11,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.282Z"
+      "created_at": "2018-07-27T18:53:16.282Z",
+      "eaten": false
     },
     {
       "id": 12,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.284Z"
+      "created_at": "2018-07-27T18:53:16.284Z",
+      "eaten": false
     },
     {
       "id": 13,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.287Z"
+      "created_at": "2018-07-27T18:53:16.287Z",
+      "eaten": false
     },
     {
       "id": 14,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.288Z"
+      "created_at": "2018-07-27T18:53:16.288Z",
+      "eaten": false
     },
     {
       "id": 15,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.290Z"
+      "created_at": "2018-07-27T18:53:16.290Z",
+      "eaten": false
     },
     {
       "id": 16,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.292Z"
+      "created_at": "2018-07-27T18:53:16.292Z",
+      "eaten": false
     },
     {
       "id": 17,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.295Z"
+      "created_at": "2018-07-27T18:53:16.295Z",
+      "eaten": false
     },
     {
       "id": 18,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.297Z"
+      "created_at": "2018-07-27T18:53:16.297Z",
+      "eaten": false
     },
     {
       "id": 19,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.299Z"
+      "created_at": "2018-07-27T18:53:16.299Z",
+      "eaten": false
     },
     {
       "id": 20,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.301Z"
+      "created_at": "2018-07-27T18:53:16.301Z",
+      "eaten": false
     },
     {
       "id": 21,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.303Z"
+      "created_at": "2018-07-27T18:53:16.303Z",
+      "eaten": false
     },
     {
       "id": 22,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.306Z"
+      "created_at": "2018-07-27T18:53:16.306Z",
+      "eaten": false
     },
     {
       "id": 23,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.308Z"
+      "created_at": "2018-07-27T18:53:16.308Z",
+      "eaten": false
     },
     {
       "id": 24,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.310Z"
+      "created_at": "2018-07-27T18:53:16.310Z",
+      "eaten": false
     },
     {
       "id": 25,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.312Z"
+      "created_at": "2018-07-27T18:53:16.312Z",
+      "eaten": false
     },
     {
       "id": 26,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.314Z"
+      "created_at": "2018-07-27T18:53:16.314Z",
+      "eaten": false
     },
     {
       "id": 27,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.316Z"
+      "created_at": "2018-07-27T18:53:16.316Z",
+      "eaten": false
     },
     {
       "id": 28,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.319Z"
+      "created_at": "2018-07-27T18:53:16.319Z",
+      "eaten": false
     },
     {
       "id": 29,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.320Z"
+      "created_at": "2018-07-27T18:53:16.320Z",
+      "eaten": false
     },
     {
       "id": 30,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.322Z"
+      "created_at": "2018-07-27T18:53:16.322Z",
+      "eaten": false
     },
     {
       "id": 31,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.337Z"
+      "created_at": "2018-07-27T18:53:16.337Z",
+      "eaten": false
     },
     {
       "id": 32,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.340Z"
+      "created_at": "2018-07-27T18:53:16.340Z",
+      "eaten": false
     },
     {
       "id": 33,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.343Z"
+      "created_at": "2018-07-27T18:53:16.343Z",
+      "eaten": false
     },
     {
       "id": 34,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.345Z"
+      "created_at": "2018-07-27T18:53:16.345Z",
+      "eaten": false
     },
     {
       "id": 35,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.348Z"
+      "created_at": "2018-07-27T18:53:16.348Z",
+      "eaten": false
     },
     {
       "id": 36,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.350Z"
+      "created_at": "2018-07-27T18:53:16.350Z",
+      "eaten": false
     },
     {
       "id": 37,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.353Z"
+      "created_at": "2018-07-27T18:53:16.353Z",
+      "eaten": false
     },
     {
       "id": 38,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.355Z"
+      "created_at": "2018-07-27T18:53:16.355Z",
+      "eaten": false
     },
     {
       "id": 39,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.357Z"
+      "created_at": "2018-07-27T18:53:16.357Z",
+      "eaten": false
     },
     {
       "id": 40,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.360Z"
+      "created_at": "2018-07-27T18:53:16.360Z",
+      "eaten": false
     },
     {
       "id": 41,
@@ -292,7 +332,8 @@
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.372Z"
+      "created_at": "2018-07-27T18:53:16.372Z",
+      "eaten": false
     },
     {
       "id": 43,
@@ -306,35 +347,40 @@
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.378Z"
+      "created_at": "2018-07-27T18:53:16.378Z",
+      "eaten": false
     },
     {
       "id": 45,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.381Z"
+      "created_at": "2018-07-27T18:53:16.381Z",
+      "eaten": false
     },
     {
       "id": 46,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.383Z"
+      "created_at": "2018-07-27T18:53:16.383Z",
+      "eaten": false
     },
     {
       "id": 47,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.386Z"
+      "created_at": "2018-07-27T18:53:16.386Z",
+      "eaten": false
     },
     {
       "id": 48,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.388Z"
+      "created_at": "2018-07-27T18:53:16.388Z",
+      "eaten": false
     },
     {
       "id": 49,
@@ -446,7 +492,8 @@
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.427Z"
+      "created_at": "2018-07-27T18:53:16.427Z",
+      "eaten": false
     },
     {
       "id": 65,
@@ -537,28 +584,32 @@
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.458Z"
+      "created_at": "2018-07-27T18:53:16.458Z",
+      "eaten": false
     },
     {
       "id": 78,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.460Z"
+      "created_at": "2018-07-27T18:53:16.460Z",
+      "eaten": false
     },
     {
       "id": 79,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.462Z"
+      "created_at": "2018-07-27T18:53:16.462Z",
+      "eaten": false
     },
     {
       "id": 80,
       "name": "Oh Sake",
       "img_url": "./sushi/sake.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.468Z"
+      "created_at": "2018-07-27T18:53:16.468Z",
+      "eaten": false
     },
     {
       "id": 81,
@@ -586,7 +637,8 @@
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 10,
-      "created_at": "2018-07-27T18:53:16.480Z"
+      "created_at": "2018-07-27T18:53:16.480Z",
+      "eaten": false
     },
     {
       "id": 85,
@@ -642,35 +694,40 @@
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.498Z"
+      "created_at": "2018-07-27T18:53:16.498Z",
+      "eaten": false
     },
     {
       "id": 93,
       "name": "Tsundere Ebi",
       "img_url": "./sushi/ebi.png",
       "price": 15,
-      "created_at": "2018-07-27T18:53:16.500Z"
+      "created_at": "2018-07-27T18:53:16.500Z",
+      "eaten": false
     },
     {
       "id": 94,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.502Z"
+      "created_at": "2018-07-27T18:53:16.502Z",
+      "eaten": false
     },
     {
       "id": 95,
       "name": "Kawaii Tobiko",
       "img_url": "./sushi/tobiko.png",
       "price": 25,
-      "created_at": "2018-07-27T18:53:16.504Z"
+      "created_at": "2018-07-27T18:53:16.504Z",
+      "eaten": false
     },
     {
       "id": 96,
       "name": "Maguro Magic",
       "img_url": "./sushi/maguro.png",
       "price": 20,
-      "created_at": "2018-07-27T18:53:16.507Z"
+      "created_at": "2018-07-27T18:53:16.507Z",
+      "eaten": false
     },
     {
       "id": 97,
